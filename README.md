@@ -1,4 +1,4 @@
-# NeetCode Solutions — @fatemehzarei2881373
+# NeetCode Solutions — @faith-za
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
